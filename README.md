@@ -46,7 +46,7 @@ seating-system/
         └── assets/main.css
 ```
 
-## 技術棧
+## 技術
 
 | 層次 | 技術 |
 |------|------|
